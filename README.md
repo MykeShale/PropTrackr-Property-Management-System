@@ -45,4 +45,4 @@ The Entity-Relationship Diagram (ERD) for the database is located in the ERD dia
 - MySQL for database management.
 - SQL scripts for database creation and data population.
 
-
+## Credits
