@@ -46,3 +46,4 @@ The Entity-Relationship Diagram (ERD) for the database is located in the ERD dia
 - SQL scripts for database creation and data population.
 
 ## Credits
+- GitHub: [@MykeShale](https://github.com/MykeShale)
