@@ -33,7 +33,7 @@ The Entity-Relationship Diagram (ERD) for the database is located in the ERD dia
 - **README.md:** Documentation for the project.
 
 ## Screenshot of ERD
-ERD Diagram
+![ERD Diagram](<ERD diagram/PropTrackr ERD Diagram.drawio.png>)
 
 ## Features
 - Manage landlords, tenants, properties, and lease agreements.
@@ -46,7 +46,3 @@ ERD Diagram
 - SQL scripts for database creation and data population.
 
 
-### Notes:
-1. Replace `ERD%20diagram/ERD.png` with the actual path to your ERD image if it differs.
-2. Add a `LICENSE` file to your repository if it doesn't already exist.
-3. Let me know if you need further adjustments!
